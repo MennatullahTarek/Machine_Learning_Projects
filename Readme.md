@@ -42,5 +42,5 @@ Welcome to my Machine Learning Projects repository! This repo contains a collect
 ## ✅ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ml-projects.git
+   git clone https://github.com/MennatullahTarek/ml-projects.git
    cd ml-projects
